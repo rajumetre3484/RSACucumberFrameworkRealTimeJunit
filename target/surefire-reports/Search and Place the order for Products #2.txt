@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Search and Place the order for Products #2
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 32.907 s <<< FAILURE! - in Search and Place the order for Products #2
+Search and Place the order for Products #2.Search Experience for product search in both home and offers page #2  Time elapsed: 13.286 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[No data]> but was:<[Beetroot]>
+
